@@ -1,0 +1,16 @@
+debug/level1.o
+debug/level2.o
+debug/main.o
+debug/mainsence1.o
+debug/map.o
+debug/scene.o
+debug/weight2.o
+debug/qrc_source.o
+debug/qrc_startUI.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_level1.o
+debug/moc_level2.o
+debug/moc_mainsence1.o
+debug/moc_map.o
+debug/moc_scene.o
+debug/moc_weight2.o

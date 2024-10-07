@@ -1,0 +1,27 @@
+#ifndef MAINSENCE1_H
+#define MAINSENCE1_H
+
+#include <QMainWindow>
+#include "weight2.h"
+namespace Ui {
+class mainsence1;
+}
+
+class mainsence1 : public QMainWindow
+{
+    Q_OBJECT
+
+public:
+    explicit mainsence1(QWidget *parent = nullptr);
+    ~mainsence1();
+
+private slots:
+    void on_pushButton_2_clicked();
+
+    void on_pushButton_clicked();
+
+private:
+    Ui::mainsence1 *ui;
+};
+
+#endif // MAINSENCE1_H

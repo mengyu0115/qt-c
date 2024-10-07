@@ -1,0 +1,16 @@
+release/level1.o
+release/level2.o
+release/main.o
+release/mainsence1.o
+release/map.o
+release/scene.o
+release/weight2.o
+release/qrc_source.o
+release/qrc_startUI.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_level1.o
+release/moc_level2.o
+release/moc_mainsence1.o
+release/moc_map.o
+release/moc_scene.o
+release/moc_weight2.o
